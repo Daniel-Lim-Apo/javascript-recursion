@@ -17,4 +17,4 @@ function sumFibs(num) {
   }
   return result;
 }
-console.log(sumFibs(5));
+console.log(sumFibs(21));
